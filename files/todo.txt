@@ -1,8 +1,9 @@
-running in the park
-fishing in the lake
-running in the track
-eating burger
-drinking coke and pepsi
-making cake
-sleeping in the bed
-write a python code
+get ready for university
+buy a ticket for the bus
+find my classroom number
+find my lab room number
+get a coat for the lab
+issue my assignment in the office room
+join a lecture
+contact with the lecturer in the office room
+request prof. for a LoR
